@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 
 const Recipes = () => {
     const [recipes, setRecipes] = useState([]);
+    const 
    
 
     useEffect(() => {
@@ -27,7 +28,8 @@ const Recipes = () => {
   <div className="card-body">
     <h2 className="card-title text-lg text-gray-800 font-medium">{recipe.recipe_name}</h2>
     <p className="text-gray-500">{recipe.short_description}</p>
-    <h3>Ingredients: {recipes.ingredients.length}</h3>
+    <h3>Ingredients: {recipe?.ingredients}</h3> 
+  
 
     <div className="card-actions justify-end">
       <button className="btn btn-primary">Buy Now</button>
