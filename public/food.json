@@ -1,0 +1,77 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/WvbGHBJ/Grilled-Lemon-Basil-Chicken-l-Simply-Scratch-com-grilling-lemon-basil-chicken-dinner-easy-recipe-9.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A delicious and easy-to-make grilled chicken dish with fresh basil and mushrooms.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/4ZyPpGS/carbonara-horizontal-square640-v2.jpg",
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta with creamy egg sauce, pancetta, and parmesan.",
+      "ingredients": [
+        "400 g spaghetti",
+        "150 g pancetta",
+        "3 large eggs",
+        "50 g parmesan",
+        "Salt and pepper"
+      ],
+      "preparing_time": "25 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/6rd0Pbq/IMG-25456.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Vegan Buddha Bowl",
+      "short_description": "A colorful and nutritious bowl with quinoa, chickpeas, avocado, and fresh veggies.",
+      "ingredients": [
+        "100 g quinoa",
+        "1 avocado",
+        "200 g chickpeas",
+        "100 g spinach",
+        "50 g carrots"
+      ],
+      "preparing_time": "20 min",
+      "calories": "380 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/wwVqHgc/Black-pepper-beef-stir-fry-2.jpg",
+      "recipe_id": 4,
+      "recipe_name": "Beef Stir-fry",
+      "short_description": "Tender beef strips stir-fried with bell peppers and a savory soy-ginger sauce.",
+      "ingredients": [
+        "300 g beef strips",
+        "2 bell peppers",
+        "3 tbsp soy sauce",
+        "1 tbsp ginger",
+        "1 tbsp garlic"
+      ],
+      "preparing_time": "20 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/mB6nxRv/images.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Classic chewy chocolate chip cookies with a golden-brown finish.",
+      "ingredients": [
+        "250 g flour",
+        "100 g sugar",
+        "150 g chocolate chips",
+        "100 g butter",
+        "1 egg"
+      ],
+      "preparing_time": "15 min",
+      "calories": "220 calories per cookie"
+    }
+  ]
+  
